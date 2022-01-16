@@ -1,8 +1,6 @@
 """MODULES"""
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
-from tkinter import filedialog
+import PyQt5.QtWidgets as qtw
+import PyQt5.QtGui as qtg
 
 import matplotlib as mpl 
 import matplotlib.pyplot as plt
